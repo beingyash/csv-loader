@@ -1,0 +1,23 @@
+{
+  "name": "csv-loader",
+  "version": "1.0.0",
+  "description": "To load data into multiple data storage systems for querying, starting with opensearch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beingyash/csv-loader.git"
+  },
+  "keywords": [
+    "csv",
+    "opensearch"
+  ],
+  "author": "Yashpal Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beingyash/csv-loader/issues"
+  },
+  "homepage": "https://github.com/beingyash/csv-loader#readme"
+}
